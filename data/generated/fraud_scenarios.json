@@ -1,0 +1,168 @@
+{
+    "description": "Synthetic fraud scenarios for SOC detection practice.",
+    "scenario_count": 4,
+    "scenarios": [
+        {
+            "scenario_id": "FRAUD-001",
+            "scenario_type": "high_value_transaction",
+            "description": "A customer makes an unusually large transaction.",
+            "transactions": [
+                {
+                    "event_id": "EVT-FRAUD-0001",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:00:00Z",
+                    "transaction_id": "FRAUD-TXN-0001",
+                    "customer_id": "CUST-0001",
+                    "transaction_type": "transfer",
+                    "amount": 49999.0,
+                    "currency": "MAD",
+                    "status": "success",
+                    "source_ip": "192.0.2.10",
+                    "destination_account_id": "ACC-999"
+                }
+            ]
+        },
+        {
+            "scenario_id": "FRAUD-002",
+            "scenario_type": "rapid_transactions",
+            "description": "Five transactions occur within a short time.",
+            "transactions": [
+                {
+                    "event_id": "EVT-FRAUD-0002",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:02:00Z",
+                    "transaction_id": "FRAUD-TXN-0002",
+                    "customer_id": "CUST-0002",
+                    "transaction_type": "payment",
+                    "amount": 2000.0,
+                    "currency": "MAD",
+                    "status": "success",
+                    "source_ip": "198.51.100.15"
+                },
+                {
+                    "event_id": "EVT-FRAUD-0003",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:03:00Z",
+                    "transaction_id": "FRAUD-TXN-0003",
+                    "customer_id": "CUST-0002",
+                    "transaction_type": "payment",
+                    "amount": 2000.0,
+                    "currency": "MAD",
+                    "status": "success",
+                    "source_ip": "198.51.100.15"
+                },
+                {
+                    "event_id": "EVT-FRAUD-0004",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:04:00Z",
+                    "transaction_id": "FRAUD-TXN-0004",
+                    "customer_id": "CUST-0002",
+                    "transaction_type": "payment",
+                    "amount": 2000.0,
+                    "currency": "MAD",
+                    "status": "success",
+                    "source_ip": "198.51.100.15"
+                },
+                {
+                    "event_id": "EVT-FRAUD-0005",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:05:00Z",
+                    "transaction_id": "FRAUD-TXN-0005",
+                    "customer_id": "CUST-0002",
+                    "transaction_type": "payment",
+                    "amount": 2000.0,
+                    "currency": "MAD",
+                    "status": "success",
+                    "source_ip": "198.51.100.15"
+                },
+                {
+                    "event_id": "EVT-FRAUD-0006",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:06:00Z",
+                    "transaction_id": "FRAUD-TXN-0006",
+                    "customer_id": "CUST-0002",
+                    "transaction_type": "payment",
+                    "amount": 2000.0,
+                    "currency": "MAD",
+                    "status": "success",
+                    "source_ip": "198.51.100.15"
+                }
+            ]
+        },
+        {
+            "scenario_id": "FRAUD-003",
+            "scenario_type": "repeated_failed_transactions",
+            "description": "A customer has four failed transactions.",
+            "transactions": [
+                {
+                    "event_id": "EVT-FRAUD-0007",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:07:00Z",
+                    "transaction_id": "FRAUD-TXN-0007",
+                    "customer_id": "CUST-0003",
+                    "transaction_type": "withdrawal",
+                    "amount": 1500.0,
+                    "currency": "MAD",
+                    "status": "failed",
+                    "source_ip": "203.0.113.20"
+                },
+                {
+                    "event_id": "EVT-FRAUD-0008",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:08:00Z",
+                    "transaction_id": "FRAUD-TXN-0008",
+                    "customer_id": "CUST-0003",
+                    "transaction_type": "withdrawal",
+                    "amount": 1500.0,
+                    "currency": "MAD",
+                    "status": "failed",
+                    "source_ip": "203.0.113.20"
+                },
+                {
+                    "event_id": "EVT-FRAUD-0009",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:09:00Z",
+                    "transaction_id": "FRAUD-TXN-0009",
+                    "customer_id": "CUST-0003",
+                    "transaction_type": "withdrawal",
+                    "amount": 1500.0,
+                    "currency": "MAD",
+                    "status": "failed",
+                    "source_ip": "203.0.113.20"
+                },
+                {
+                    "event_id": "EVT-FRAUD-0010",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:10:00Z",
+                    "transaction_id": "FRAUD-TXN-0010",
+                    "customer_id": "CUST-0003",
+                    "transaction_type": "withdrawal",
+                    "amount": 1500.0,
+                    "currency": "MAD",
+                    "status": "failed",
+                    "source_ip": "203.0.113.20"
+                }
+            ]
+        },
+        {
+            "scenario_id": "FRAUD-004",
+            "scenario_type": "unusual_ip_address",
+            "description": "A transaction comes from an unfamiliar IP address.",
+            "transactions": [
+                {
+                    "event_id": "EVT-FRAUD-0011",
+                    "event_type": "transaction",
+                    "timestamp": "2026-11-09T12:15:00Z",
+                    "transaction_id": "FRAUD-TXN-0011",
+                    "customer_id": "CUST-0004",
+                    "transaction_type": "transfer",
+                    "amount": 8000.0,
+                    "currency": "MAD",
+                    "status": "success",
+                    "source_ip": "203.0.113.250",
+                    "destination_account_id": "ACC-999"
+                }
+            ]
+        }
+    ]
+}
