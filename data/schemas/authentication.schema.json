@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FinSOC Authentication Event",
+  "description": "Schema for account authentication events",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "event_id",
+    "event_type",
+    "timestamp",
+    "customer_id",
+    "action",
+    "status",
+    "source_ip"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string"
+    },
+    "event_type": {
+      "const": "authentication"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "customer_id": {
+      "type": "string"
+    },
+    "action": {
+      "enum": ["login", "logout", "password_reset"]
+    },
+    "status": {
+      "enum": ["success", "failed"]
+    },
+    "source_ip": {
+      "type": "string",
+      "format": "ipv4"
+    },
+    "user_agent": {
+      "type": "string"
+    },
+    "failure_reason": {
+      "type": "string"
+    }
+  }
+}

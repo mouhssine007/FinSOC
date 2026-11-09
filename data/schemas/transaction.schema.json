@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FinSOC Transaction Event",
+  "description": "Schema for financial transaction events",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "event_id",
+    "event_type",
+    "timestamp",
+    "transaction_id",
+    "customer_id",
+    "transaction_type",
+    "amount",
+    "currency",
+    "status",
+    "source_ip"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string"
+    },
+    "event_type": {
+      "const": "transaction"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "transaction_id": {
+      "type": "string"
+    },
+    "customer_id": {
+      "type": "string"
+    },
+    "transaction_type": {
+      "enum": ["deposit", "withdrawal", "transfer", "payment"]
+    },
+    "amount": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "currency": {
+      "const": "MAD"
+    },
+    "status": {
+      "enum": ["success", "failed", "pending"]
+    },
+    "source_ip": {
+      "type": "string",
+      "format": "ipv4"
+    },
+    "destination_account_id": {
+      "type": "string"
+    }
+  }
+}
