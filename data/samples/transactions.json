@@ -1,0 +1,39 @@
+[
+  {
+    "event_id": "EVT-TXN-001",
+    "event_type": "transaction",
+    "timestamp": "2026-11-09T09:15:00Z",
+    "transaction_id": "TXN-10001",
+    "customer_id": "CUST-001",
+    "transaction_type": "transfer",
+    "amount": 5000.00,
+    "currency": "MAD",
+    "status": "success",
+    "source_ip": "192.0.2.10",
+    "destination_account_id": "ACC-002"
+  },
+  {
+    "event_id": "EVT-TXN-002",
+    "event_type": "transaction",
+    "timestamp": "2026-11-09T09:20:00Z",
+    "transaction_id": "TXN-10002",
+    "customer_id": "CUST-002",
+    "transaction_type": "withdrawal",
+    "amount": 1000.00,
+    "currency": "MAD",
+    "status": "success",
+    "source_ip": "198.51.100.15"
+  },
+  {
+    "event_id": "EVT-TXN-003",
+    "event_type": "transaction",
+    "timestamp": "2026-11-09T09:25:00Z",
+    "transaction_id": "TXN-10003",
+    "customer_id": "CUST-001",
+    "transaction_type": "payment",
+    "amount": 25000.00,
+    "currency": "MAD",
+    "status": "pending",
+    "source_ip": "203.0.113.20"
+  }
+]

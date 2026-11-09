@@ -1,0 +1,34 @@
+[
+  {
+    "event_id": "EVT-AUTH-001",
+    "event_type": "authentication",
+    "timestamp": "2026-11-09T09:10:00Z",
+    "customer_id": "CUST-001",
+    "action": "login",
+    "status": "success",
+    "source_ip": "192.0.2.10",
+    "user_agent": "Chrome Windows 11"
+  },
+  {
+    "event_id": "EVT-AUTH-002",
+    "event_type": "authentication",
+    "timestamp": "2026-11-09T09:12:00Z",
+    "customer_id": "CUST-002",
+    "action": "login",
+    "status": "failed",
+    "source_ip": "198.51.100.25",
+    "user_agent": "Firefox Linux",
+    "failure_reason": "Invalid password"
+  },
+  {
+    "event_id": "EVT-AUTH-003",
+    "event_type": "authentication",
+    "timestamp": "2026-11-09T09:13:00Z",
+    "customer_id": "CUST-002",
+    "action": "login",
+    "status": "failed",
+    "source_ip": "198.51.100.25",
+    "user_agent": "Firefox Linux",
+    "failure_reason": "Invalid password"
+  }
+]
