@@ -1,0 +1,702 @@
+[
+    {
+        "customer_id": "CUST-0001",
+        "first_name": "Amine",
+        "last_name": "Alaoui",
+        "city": "Agadir",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0002",
+        "first_name": "Karim",
+        "last_name": "Idrissi",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0003",
+        "first_name": "Imane",
+        "last_name": "Bennani",
+        "city": "Tangier",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0004",
+        "first_name": "Youssef",
+        "last_name": "Alaoui",
+        "city": "Casablanca",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0005",
+        "first_name": "Karim",
+        "last_name": "Mansouri",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0006",
+        "first_name": "Imane",
+        "last_name": "Idrissi",
+        "city": "Agadir",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0007",
+        "first_name": "Karim",
+        "last_name": "Chraibi",
+        "city": "Tangier",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0008",
+        "first_name": "Youssef",
+        "last_name": "Tazi",
+        "city": "Agadir",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0009",
+        "first_name": "Salma",
+        "last_name": "Amrani",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0010",
+        "first_name": "Salma",
+        "last_name": "Bennani",
+        "city": "Casablanca",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0011",
+        "first_name": "Amine",
+        "last_name": "Fassi",
+        "city": "Marrakech",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0012",
+        "first_name": "Youssef",
+        "last_name": "Chraibi",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0013",
+        "first_name": "Sara",
+        "last_name": "Bennani",
+        "city": "Tangier",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0014",
+        "first_name": "Meryem",
+        "last_name": "Fassi",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0015",
+        "first_name": "Amine",
+        "last_name": "Alaoui",
+        "city": "Agadir",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0016",
+        "first_name": "Hamza",
+        "last_name": "Bennani",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0017",
+        "first_name": "Sara",
+        "last_name": "Amrani",
+        "city": "Fes",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0018",
+        "first_name": "Omar",
+        "last_name": "Fassi",
+        "city": "Marrakech",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0019",
+        "first_name": "Hamza",
+        "last_name": "Bennani",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0020",
+        "first_name": "Imane",
+        "last_name": "Idrissi",
+        "city": "Rabat",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0021",
+        "first_name": "Sara",
+        "last_name": "Amrani",
+        "city": "Agadir",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0022",
+        "first_name": "Salma",
+        "last_name": "Alaoui",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0023",
+        "first_name": "Salma",
+        "last_name": "Berrada",
+        "city": "Marrakech",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0024",
+        "first_name": "Karim",
+        "last_name": "Naciri",
+        "city": "Agadir",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0025",
+        "first_name": "Karim",
+        "last_name": "Chraibi",
+        "city": "Fes",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0026",
+        "first_name": "Omar",
+        "last_name": "Amrani",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0027",
+        "first_name": "Imane",
+        "last_name": "Mansouri",
+        "city": "Marrakech",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0028",
+        "first_name": "Meryem",
+        "last_name": "Berrada",
+        "city": "Marrakech",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0029",
+        "first_name": "Omar",
+        "last_name": "Mansouri",
+        "city": "Fes",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0030",
+        "first_name": "Youssef",
+        "last_name": "Bennani",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0031",
+        "first_name": "Sara",
+        "last_name": "Naciri",
+        "city": "Casablanca",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0032",
+        "first_name": "Sara",
+        "last_name": "Naciri",
+        "city": "Fes",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0033",
+        "first_name": "Imane",
+        "last_name": "Alaoui",
+        "city": "Agadir",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0034",
+        "first_name": "Imane",
+        "last_name": "Amrani",
+        "city": "Agadir",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0035",
+        "first_name": "Amine",
+        "last_name": "Amrani",
+        "city": "Fes",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0036",
+        "first_name": "Nadia",
+        "last_name": "Alaoui",
+        "city": "Agadir",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0037",
+        "first_name": "Imane",
+        "last_name": "Tazi",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0038",
+        "first_name": "Hamza",
+        "last_name": "Mansouri",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0039",
+        "first_name": "Omar",
+        "last_name": "Fassi",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0040",
+        "first_name": "Meryem",
+        "last_name": "Fassi",
+        "city": "Fes",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0041",
+        "first_name": "Amine",
+        "last_name": "Fassi",
+        "city": "Marrakech",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0042",
+        "first_name": "Youssef",
+        "last_name": "Idrissi",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0043",
+        "first_name": "Amine",
+        "last_name": "Chraibi",
+        "city": "Casablanca",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0044",
+        "first_name": "Omar",
+        "last_name": "Chraibi",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0045",
+        "first_name": "Hamza",
+        "last_name": "Mansouri",
+        "city": "Tangier",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0046",
+        "first_name": "Karim",
+        "last_name": "Mansouri",
+        "city": "Agadir",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0047",
+        "first_name": "Hamza",
+        "last_name": "Berrada",
+        "city": "Agadir",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0048",
+        "first_name": "Nadia",
+        "last_name": "Mansouri",
+        "city": "Fes",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0049",
+        "first_name": "Karim",
+        "last_name": "Idrissi",
+        "city": "Casablanca",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0050",
+        "first_name": "Youssef",
+        "last_name": "Naciri",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0051",
+        "first_name": "Meryem",
+        "last_name": "Idrissi",
+        "city": "Casablanca",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0052",
+        "first_name": "Youssef",
+        "last_name": "Idrissi",
+        "city": "Casablanca",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0053",
+        "first_name": "Salma",
+        "last_name": "Bennani",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0054",
+        "first_name": "Hamza",
+        "last_name": "Chraibi",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0055",
+        "first_name": "Meryem",
+        "last_name": "Naciri",
+        "city": "Fes",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0056",
+        "first_name": "Nadia",
+        "last_name": "Berrada",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0057",
+        "first_name": "Amine",
+        "last_name": "Berrada",
+        "city": "Marrakech",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0058",
+        "first_name": "Sara",
+        "last_name": "Chraibi",
+        "city": "Agadir",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0059",
+        "first_name": "Amine",
+        "last_name": "Alaoui",
+        "city": "Fes",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0060",
+        "first_name": "Amine",
+        "last_name": "Idrissi",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0061",
+        "first_name": "Imane",
+        "last_name": "Chraibi",
+        "city": "Rabat",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0062",
+        "first_name": "Omar",
+        "last_name": "Amrani",
+        "city": "Fes",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0063",
+        "first_name": "Amine",
+        "last_name": "Chraibi",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0064",
+        "first_name": "Youssef",
+        "last_name": "Mansouri",
+        "city": "Casablanca",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0065",
+        "first_name": "Karim",
+        "last_name": "Tazi",
+        "city": "Fes",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0066",
+        "first_name": "Nadia",
+        "last_name": "Idrissi",
+        "city": "Fes",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0067",
+        "first_name": "Omar",
+        "last_name": "Berrada",
+        "city": "Casablanca",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0068",
+        "first_name": "Hamza",
+        "last_name": "Chraibi",
+        "city": "Marrakech",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0069",
+        "first_name": "Imane",
+        "last_name": "Chraibi",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0070",
+        "first_name": "Hamza",
+        "last_name": "Idrissi",
+        "city": "Casablanca",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0071",
+        "first_name": "Salma",
+        "last_name": "Alaoui",
+        "city": "Casablanca",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0072",
+        "first_name": "Imane",
+        "last_name": "Mansouri",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0073",
+        "first_name": "Imane",
+        "last_name": "Bennani",
+        "city": "Rabat",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0074",
+        "first_name": "Meryem",
+        "last_name": "Bennani",
+        "city": "Agadir",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0075",
+        "first_name": "Sara",
+        "last_name": "Bennani",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0076",
+        "first_name": "Meryem",
+        "last_name": "Naciri",
+        "city": "Casablanca",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0077",
+        "first_name": "Sara",
+        "last_name": "Naciri",
+        "city": "Tangier",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0078",
+        "first_name": "Hamza",
+        "last_name": "Idrissi",
+        "city": "Agadir",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0079",
+        "first_name": "Karim",
+        "last_name": "Amrani",
+        "city": "Fes",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0080",
+        "first_name": "Hamza",
+        "last_name": "Chraibi",
+        "city": "Marrakech",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0081",
+        "first_name": "Youssef",
+        "last_name": "Chraibi",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0082",
+        "first_name": "Amine",
+        "last_name": "Mansouri",
+        "city": "Rabat",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0083",
+        "first_name": "Omar",
+        "last_name": "Fassi",
+        "city": "Casablanca",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0084",
+        "first_name": "Salma",
+        "last_name": "Amrani",
+        "city": "Rabat",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0085",
+        "first_name": "Imane",
+        "last_name": "Amrani",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0086",
+        "first_name": "Imane",
+        "last_name": "Amrani",
+        "city": "Agadir",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0087",
+        "first_name": "Omar",
+        "last_name": "Amrani",
+        "city": "Casablanca",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0088",
+        "first_name": "Imane",
+        "last_name": "Tazi",
+        "city": "Marrakech",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0089",
+        "first_name": "Meryem",
+        "last_name": "Idrissi",
+        "city": "Agadir",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0090",
+        "first_name": "Karim",
+        "last_name": "Amrani",
+        "city": "Tangier",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0091",
+        "first_name": "Hamza",
+        "last_name": "Alaoui",
+        "city": "Casablanca",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0092",
+        "first_name": "Hamza",
+        "last_name": "Alaoui",
+        "city": "Casablanca",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0093",
+        "first_name": "Omar",
+        "last_name": "Amrani",
+        "city": "Rabat",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0094",
+        "first_name": "Imane",
+        "last_name": "Berrada",
+        "city": "Tangier",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0095",
+        "first_name": "Amine",
+        "last_name": "Bennani",
+        "city": "Agadir",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0096",
+        "first_name": "Imane",
+        "last_name": "Alaoui",
+        "city": "Marrakech",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0097",
+        "first_name": "Sara",
+        "last_name": "Tazi",
+        "city": "Casablanca",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0098",
+        "first_name": "Salma",
+        "last_name": "Alaoui",
+        "city": "Marrakech",
+        "account_type": "checking"
+    },
+    {
+        "customer_id": "CUST-0099",
+        "first_name": "Karim",
+        "last_name": "Bennani",
+        "city": "Marrakech",
+        "account_type": "savings"
+    },
+    {
+        "customer_id": "CUST-0100",
+        "first_name": "Meryem",
+        "last_name": "Tazi",
+        "city": "Rabat",
+        "account_type": "checking"
+    }
+]
