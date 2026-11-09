@@ -1,0 +1,1960 @@
+{
+    "total_customers": 100,
+    "total_transactions": 1000,
+    "customer_profiles": [
+        {
+            "customer_id": "CUST-0001",
+            "city": "Agadir",
+            "account_type": "savings",
+            "transaction_count": 8,
+            "total_amount": 158270.64,
+            "transaction_types": {
+                "transfer": 4,
+                "deposit": 2,
+                "payment": 1,
+                "withdrawal": 1
+            },
+            "statuses": {
+                "failed": 3,
+                "success": 4,
+                "pending": 1
+            },
+            "average_amount": 19783.83,
+            "maximum_amount": 37948.87
+        },
+        {
+            "customer_id": "CUST-0002",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 9,
+            "total_amount": 189852.2,
+            "transaction_types": {
+                "deposit": 5,
+                "payment": 3,
+                "transfer": 1
+            },
+            "statuses": {
+                "pending": 4,
+                "success": 4,
+                "failed": 1
+            },
+            "average_amount": 21094.69,
+            "maximum_amount": 42601.42
+        },
+        {
+            "customer_id": "CUST-0003",
+            "city": "Tangier",
+            "account_type": "savings",
+            "transaction_count": 6,
+            "total_amount": 152902.39,
+            "transaction_types": {
+                "transfer": 2,
+                "withdrawal": 2,
+                "deposit": 2
+            },
+            "statuses": {
+                "pending": 3,
+                "success": 1,
+                "failed": 2
+            },
+            "average_amount": 25483.73,
+            "maximum_amount": 42480.87
+        },
+        {
+            "customer_id": "CUST-0004",
+            "city": "Casablanca",
+            "account_type": "checking",
+            "transaction_count": 4,
+            "total_amount": 105066.24,
+            "transaction_types": {
+                "transfer": 2,
+                "payment": 1,
+                "withdrawal": 1
+            },
+            "statuses": {
+                "failed": 2,
+                "pending": 2
+            },
+            "average_amount": 26266.56,
+            "maximum_amount": 44789.28
+        },
+        {
+            "customer_id": "CUST-0005",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 10,
+            "total_amount": 139653.84,
+            "transaction_types": {
+                "transfer": 4,
+                "payment": 4,
+                "withdrawal": 1,
+                "deposit": 1
+            },
+            "statuses": {
+                "failed": 7,
+                "pending": 2,
+                "success": 1
+            },
+            "average_amount": 13965.38,
+            "maximum_amount": 33180.82
+        },
+        {
+            "customer_id": "CUST-0006",
+            "city": "Agadir",
+            "account_type": "savings",
+            "transaction_count": 8,
+            "total_amount": 201233.42,
+            "transaction_types": {
+                "transfer": 2,
+                "payment": 1,
+                "withdrawal": 2,
+                "deposit": 3
+            },
+            "statuses": {
+                "pending": 3,
+                "failed": 4,
+                "success": 1
+            },
+            "average_amount": 25154.18,
+            "maximum_amount": 48715.0
+        },
+        {
+            "customer_id": "CUST-0007",
+            "city": "Tangier",
+            "account_type": "savings",
+            "transaction_count": 11,
+            "total_amount": 308477.74,
+            "transaction_types": {
+                "payment": 3,
+                "deposit": 4,
+                "withdrawal": 3,
+                "transfer": 1
+            },
+            "statuses": {
+                "success": 5,
+                "pending": 4,
+                "failed": 2
+            },
+            "average_amount": 28043.43,
+            "maximum_amount": 43321.0
+        },
+        {
+            "customer_id": "CUST-0008",
+            "city": "Agadir",
+            "account_type": "savings",
+            "transaction_count": 7,
+            "total_amount": 190756.61,
+            "transaction_types": {
+                "transfer": 2,
+                "deposit": 2,
+                "payment": 2,
+                "withdrawal": 1
+            },
+            "statuses": {
+                "failed": 3,
+                "pending": 2,
+                "success": 2
+            },
+            "average_amount": 27250.94,
+            "maximum_amount": 49624.39
+        },
+        {
+            "customer_id": "CUST-0009",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 18,
+            "total_amount": 356459.82,
+            "transaction_types": {
+                "withdrawal": 7,
+                "payment": 4,
+                "transfer": 3,
+                "deposit": 4
+            },
+            "statuses": {
+                "failed": 10,
+                "pending": 6,
+                "success": 2
+            },
+            "average_amount": 19803.32,
+            "maximum_amount": 49307.0
+        },
+        {
+            "customer_id": "CUST-0010",
+            "city": "Casablanca",
+            "account_type": "savings",
+            "transaction_count": 10,
+            "total_amount": 243860.2,
+            "transaction_types": {
+                "withdrawal": 1,
+                "payment": 2,
+                "transfer": 5,
+                "deposit": 2
+            },
+            "statuses": {
+                "pending": 5,
+                "success": 4,
+                "failed": 1
+            },
+            "average_amount": 24386.02,
+            "maximum_amount": 47259.95
+        },
+        {
+            "customer_id": "CUST-0011",
+            "city": "Marrakech",
+            "account_type": "savings",
+            "transaction_count": 6,
+            "total_amount": 159937.46,
+            "transaction_types": {
+                "deposit": 3,
+                "transfer": 2,
+                "payment": 1
+            },
+            "statuses": {
+                "success": 4,
+                "pending": 1,
+                "failed": 1
+            },
+            "average_amount": 26656.24,
+            "maximum_amount": 49414.11
+        },
+        {
+            "customer_id": "CUST-0012",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 10,
+            "total_amount": 315039.8,
+            "transaction_types": {
+                "transfer": 4,
+                "payment": 4,
+                "withdrawal": 1,
+                "deposit": 1
+            },
+            "statuses": {
+                "success": 5,
+                "failed": 3,
+                "pending": 2
+            },
+            "average_amount": 31503.98,
+            "maximum_amount": 40922.99
+        },
+        {
+            "customer_id": "CUST-0013",
+            "city": "Tangier",
+            "account_type": "savings",
+            "transaction_count": 13,
+            "total_amount": 371034.28,
+            "transaction_types": {
+                "transfer": 2,
+                "payment": 4,
+                "deposit": 5,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "failed": 4,
+                "success": 7,
+                "pending": 2
+            },
+            "average_amount": 28541.1,
+            "maximum_amount": 41633.09
+        },
+        {
+            "customer_id": "CUST-0014",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 9,
+            "total_amount": 196220.03,
+            "transaction_types": {
+                "payment": 4,
+                "deposit": 4,
+                "transfer": 1
+            },
+            "statuses": {
+                "failed": 1,
+                "pending": 4,
+                "success": 4
+            },
+            "average_amount": 21802.23,
+            "maximum_amount": 38450.01
+        },
+        {
+            "customer_id": "CUST-0015",
+            "city": "Agadir",
+            "account_type": "checking",
+            "transaction_count": 10,
+            "total_amount": 199937.24,
+            "transaction_types": {
+                "deposit": 2,
+                "payment": 5,
+                "transfer": 1,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "failed": 4,
+                "success": 4,
+                "pending": 2
+            },
+            "average_amount": 19993.72,
+            "maximum_amount": 43853.15
+        },
+        {
+            "customer_id": "CUST-0016",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 8,
+            "total_amount": 216258.14,
+            "transaction_types": {
+                "withdrawal": 4,
+                "payment": 2,
+                "transfer": 1,
+                "deposit": 1
+            },
+            "statuses": {
+                "failed": 4,
+                "pending": 4
+            },
+            "average_amount": 27032.27,
+            "maximum_amount": 48730.18
+        },
+        {
+            "customer_id": "CUST-0017",
+            "city": "Fes",
+            "account_type": "savings",
+            "transaction_count": 14,
+            "total_amount": 373216.5,
+            "transaction_types": {
+                "deposit": 4,
+                "payment": 5,
+                "transfer": 4,
+                "withdrawal": 1
+            },
+            "statuses": {
+                "pending": 7,
+                "success": 5,
+                "failed": 2
+            },
+            "average_amount": 26658.32,
+            "maximum_amount": 48754.39
+        },
+        {
+            "customer_id": "CUST-0018",
+            "city": "Marrakech",
+            "account_type": "checking",
+            "transaction_count": 13,
+            "total_amount": 273475.98,
+            "transaction_types": {
+                "transfer": 3,
+                "withdrawal": 4,
+                "deposit": 1,
+                "payment": 5
+            },
+            "statuses": {
+                "pending": 6,
+                "failed": 4,
+                "success": 3
+            },
+            "average_amount": 21036.61,
+            "maximum_amount": 42642.79
+        },
+        {
+            "customer_id": "CUST-0019",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 8,
+            "total_amount": 187199.81,
+            "transaction_types": {
+                "withdrawal": 2,
+                "transfer": 2,
+                "deposit": 3,
+                "payment": 1
+            },
+            "statuses": {
+                "success": 5,
+                "failed": 1,
+                "pending": 2
+            },
+            "average_amount": 23399.98,
+            "maximum_amount": 42434.98
+        },
+        {
+            "customer_id": "CUST-0020",
+            "city": "Rabat",
+            "account_type": "savings",
+            "transaction_count": 10,
+            "total_amount": 221075.02,
+            "transaction_types": {
+                "withdrawal": 5,
+                "payment": 4,
+                "deposit": 1
+            },
+            "statuses": {
+                "pending": 3,
+                "failed": 4,
+                "success": 3
+            },
+            "average_amount": 22107.5,
+            "maximum_amount": 47472.81
+        },
+        {
+            "customer_id": "CUST-0021",
+            "city": "Agadir",
+            "account_type": "checking",
+            "transaction_count": 7,
+            "total_amount": 160212.84,
+            "transaction_types": {
+                "payment": 2,
+                "deposit": 3,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "failed": 4,
+                "success": 1,
+                "pending": 2
+            },
+            "average_amount": 22887.55,
+            "maximum_amount": 37185.34
+        },
+        {
+            "customer_id": "CUST-0022",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 8,
+            "total_amount": 195089.34,
+            "transaction_types": {
+                "payment": 3,
+                "withdrawal": 2,
+                "transfer": 2,
+                "deposit": 1
+            },
+            "statuses": {
+                "success": 4,
+                "failed": 2,
+                "pending": 2
+            },
+            "average_amount": 24386.17,
+            "maximum_amount": 44397.68
+        },
+        {
+            "customer_id": "CUST-0023",
+            "city": "Marrakech",
+            "account_type": "checking",
+            "transaction_count": 15,
+            "total_amount": 400091.69,
+            "transaction_types": {
+                "withdrawal": 3,
+                "transfer": 4,
+                "deposit": 5,
+                "payment": 3
+            },
+            "statuses": {
+                "failed": 3,
+                "success": 8,
+                "pending": 4
+            },
+            "average_amount": 26672.78,
+            "maximum_amount": 49172.83
+        },
+        {
+            "customer_id": "CUST-0024",
+            "city": "Agadir",
+            "account_type": "savings",
+            "transaction_count": 15,
+            "total_amount": 450362.95,
+            "transaction_types": {
+                "transfer": 3,
+                "deposit": 5,
+                "payment": 5,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "failed": 6,
+                "success": 2,
+                "pending": 7
+            },
+            "average_amount": 30024.2,
+            "maximum_amount": 48616.91
+        },
+        {
+            "customer_id": "CUST-0025",
+            "city": "Fes",
+            "account_type": "savings",
+            "transaction_count": 13,
+            "total_amount": 249328.77,
+            "transaction_types": {
+                "withdrawal": 2,
+                "payment": 5,
+                "transfer": 4,
+                "deposit": 2
+            },
+            "statuses": {
+                "failed": 7,
+                "success": 3,
+                "pending": 3
+            },
+            "average_amount": 19179.14,
+            "maximum_amount": 47867.3
+        },
+        {
+            "customer_id": "CUST-0026",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 8,
+            "total_amount": 165907.87,
+            "transaction_types": {
+                "withdrawal": 5,
+                "transfer": 1,
+                "payment": 2
+            },
+            "statuses": {
+                "failed": 2,
+                "success": 2,
+                "pending": 4
+            },
+            "average_amount": 20738.48,
+            "maximum_amount": 41748.67
+        },
+        {
+            "customer_id": "CUST-0027",
+            "city": "Marrakech",
+            "account_type": "savings",
+            "transaction_count": 4,
+            "total_amount": 125075.89,
+            "transaction_types": {
+                "withdrawal": 2,
+                "transfer": 1,
+                "deposit": 1
+            },
+            "statuses": {
+                "pending": 1,
+                "success": 3
+            },
+            "average_amount": 31268.97,
+            "maximum_amount": 40678.36
+        },
+        {
+            "customer_id": "CUST-0028",
+            "city": "Marrakech",
+            "account_type": "checking",
+            "transaction_count": 9,
+            "total_amount": 270577.62,
+            "transaction_types": {
+                "transfer": 2,
+                "payment": 4,
+                "deposit": 1,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "success": 5,
+                "pending": 3,
+                "failed": 1
+            },
+            "average_amount": 30064.18,
+            "maximum_amount": 48406.75
+        },
+        {
+            "customer_id": "CUST-0029",
+            "city": "Fes",
+            "account_type": "checking",
+            "transaction_count": 10,
+            "total_amount": 364075.88,
+            "transaction_types": {
+                "payment": 3,
+                "transfer": 4,
+                "withdrawal": 2,
+                "deposit": 1
+            },
+            "statuses": {
+                "pending": 6,
+                "failed": 4
+            },
+            "average_amount": 36407.59,
+            "maximum_amount": 47868.45
+        },
+        {
+            "customer_id": "CUST-0030",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 7,
+            "total_amount": 183418.24,
+            "transaction_types": {
+                "transfer": 2,
+                "withdrawal": 1,
+                "payment": 4
+            },
+            "statuses": {
+                "pending": 4,
+                "success": 1,
+                "failed": 2
+            },
+            "average_amount": 26202.61,
+            "maximum_amount": 46921.7
+        },
+        {
+            "customer_id": "CUST-0031",
+            "city": "Casablanca",
+            "account_type": "savings",
+            "transaction_count": 14,
+            "total_amount": 266882.74,
+            "transaction_types": {
+                "transfer": 5,
+                "withdrawal": 4,
+                "deposit": 3,
+                "payment": 2
+            },
+            "statuses": {
+                "failed": 8,
+                "pending": 2,
+                "success": 4
+            },
+            "average_amount": 19063.05,
+            "maximum_amount": 39520.75
+        },
+        {
+            "customer_id": "CUST-0032",
+            "city": "Fes",
+            "account_type": "savings",
+            "transaction_count": 7,
+            "total_amount": 122272.48,
+            "transaction_types": {
+                "deposit": 4,
+                "payment": 2,
+                "withdrawal": 1
+            },
+            "statuses": {
+                "success": 2,
+                "failed": 4,
+                "pending": 1
+            },
+            "average_amount": 17467.5,
+            "maximum_amount": 37029.65
+        },
+        {
+            "customer_id": "CUST-0033",
+            "city": "Agadir",
+            "account_type": "checking",
+            "transaction_count": 8,
+            "total_amount": 219051.92,
+            "transaction_types": {
+                "withdrawal": 3,
+                "payment": 2,
+                "transfer": 1,
+                "deposit": 2
+            },
+            "statuses": {
+                "failed": 6,
+                "pending": 2
+            },
+            "average_amount": 27381.49,
+            "maximum_amount": 41747.2
+        },
+        {
+            "customer_id": "CUST-0034",
+            "city": "Agadir",
+            "account_type": "savings",
+            "transaction_count": 8,
+            "total_amount": 229245.22,
+            "transaction_types": {
+                "deposit": 3,
+                "withdrawal": 1,
+                "payment": 2,
+                "transfer": 2
+            },
+            "statuses": {
+                "success": 3,
+                "pending": 4,
+                "failed": 1
+            },
+            "average_amount": 28655.65,
+            "maximum_amount": 48353.86
+        },
+        {
+            "customer_id": "CUST-0035",
+            "city": "Fes",
+            "account_type": "checking",
+            "transaction_count": 6,
+            "total_amount": 85110.59,
+            "transaction_types": {
+                "payment": 3,
+                "deposit": 3
+            },
+            "statuses": {
+                "failed": 3,
+                "pending": 2,
+                "success": 1
+            },
+            "average_amount": 14185.1,
+            "maximum_amount": 25028.6
+        },
+        {
+            "customer_id": "CUST-0036",
+            "city": "Agadir",
+            "account_type": "savings",
+            "transaction_count": 12,
+            "total_amount": 309909.09,
+            "transaction_types": {
+                "transfer": 1,
+                "payment": 6,
+                "deposit": 1,
+                "withdrawal": 4
+            },
+            "statuses": {
+                "failed": 3,
+                "pending": 3,
+                "success": 6
+            },
+            "average_amount": 25825.76,
+            "maximum_amount": 43384.42
+        },
+        {
+            "customer_id": "CUST-0037",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 333431.02,
+            "transaction_types": {
+                "withdrawal": 2,
+                "payment": 3,
+                "deposit": 5,
+                "transfer": 2
+            },
+            "statuses": {
+                "pending": 4,
+                "failed": 3,
+                "success": 5
+            },
+            "average_amount": 27785.92,
+            "maximum_amount": 38789.29
+        },
+        {
+            "customer_id": "CUST-0038",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 9,
+            "total_amount": 212311.6,
+            "transaction_types": {
+                "payment": 3,
+                "deposit": 2,
+                "transfer": 2,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "failed": 3,
+                "success": 4,
+                "pending": 2
+            },
+            "average_amount": 23590.18,
+            "maximum_amount": 42222.98
+        },
+        {
+            "customer_id": "CUST-0039",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 249454.9,
+            "transaction_types": {
+                "transfer": 2,
+                "withdrawal": 7,
+                "payment": 2,
+                "deposit": 1
+            },
+            "statuses": {
+                "failed": 6,
+                "pending": 4,
+                "success": 2
+            },
+            "average_amount": 20787.91,
+            "maximum_amount": 48711.23
+        },
+        {
+            "customer_id": "CUST-0040",
+            "city": "Fes",
+            "account_type": "checking",
+            "transaction_count": 7,
+            "total_amount": 178765.66,
+            "transaction_types": {
+                "deposit": 3,
+                "payment": 3,
+                "transfer": 1
+            },
+            "statuses": {
+                "failed": 2,
+                "success": 1,
+                "pending": 4
+            },
+            "average_amount": 25537.95,
+            "maximum_amount": 39288.41
+        },
+        {
+            "customer_id": "CUST-0041",
+            "city": "Marrakech",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 350708.26,
+            "transaction_types": {
+                "payment": 5,
+                "withdrawal": 4,
+                "deposit": 2,
+                "transfer": 1
+            },
+            "statuses": {
+                "failed": 5,
+                "success": 6,
+                "pending": 1
+            },
+            "average_amount": 29225.69,
+            "maximum_amount": 47834.71
+        },
+        {
+            "customer_id": "CUST-0042",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 10,
+            "total_amount": 290889.5,
+            "transaction_types": {
+                "transfer": 4,
+                "withdrawal": 4,
+                "deposit": 1,
+                "payment": 1
+            },
+            "statuses": {
+                "success": 2,
+                "failed": 4,
+                "pending": 4
+            },
+            "average_amount": 29088.95,
+            "maximum_amount": 46569.12
+        },
+        {
+            "customer_id": "CUST-0043",
+            "city": "Casablanca",
+            "account_type": "checking",
+            "transaction_count": 4,
+            "total_amount": 135148.71,
+            "transaction_types": {
+                "deposit": 1,
+                "withdrawal": 1,
+                "payment": 2
+            },
+            "statuses": {
+                "pending": 1,
+                "success": 2,
+                "failed": 1
+            },
+            "average_amount": 33787.18,
+            "maximum_amount": 42618.54
+        },
+        {
+            "customer_id": "CUST-0044",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 7,
+            "total_amount": 249320.46,
+            "transaction_types": {
+                "transfer": 2,
+                "payment": 1,
+                "deposit": 3,
+                "withdrawal": 1
+            },
+            "statuses": {
+                "failed": 3,
+                "success": 2,
+                "pending": 2
+            },
+            "average_amount": 35617.21,
+            "maximum_amount": 49119.46
+        },
+        {
+            "customer_id": "CUST-0045",
+            "city": "Tangier",
+            "account_type": "savings",
+            "transaction_count": 14,
+            "total_amount": 455561.63,
+            "transaction_types": {
+                "deposit": 4,
+                "payment": 3,
+                "withdrawal": 3,
+                "transfer": 4
+            },
+            "statuses": {
+                "success": 4,
+                "failed": 7,
+                "pending": 3
+            },
+            "average_amount": 32540.12,
+            "maximum_amount": 49885.16
+        },
+        {
+            "customer_id": "CUST-0046",
+            "city": "Agadir",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 348169.62,
+            "transaction_types": {
+                "withdrawal": 4,
+                "transfer": 5,
+                "deposit": 1,
+                "payment": 2
+            },
+            "statuses": {
+                "failed": 8,
+                "pending": 2,
+                "success": 2
+            },
+            "average_amount": 29014.14,
+            "maximum_amount": 46760.95
+        },
+        {
+            "customer_id": "CUST-0047",
+            "city": "Agadir",
+            "account_type": "savings",
+            "transaction_count": 13,
+            "total_amount": 267478.31,
+            "transaction_types": {
+                "withdrawal": 4,
+                "deposit": 4,
+                "payment": 2,
+                "transfer": 3
+            },
+            "statuses": {
+                "pending": 4,
+                "failed": 4,
+                "success": 5
+            },
+            "average_amount": 20575.25,
+            "maximum_amount": 42717.76
+        },
+        {
+            "customer_id": "CUST-0048",
+            "city": "Fes",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 310810.35,
+            "transaction_types": {
+                "payment": 6,
+                "deposit": 3,
+                "transfer": 3
+            },
+            "statuses": {
+                "success": 4,
+                "failed": 3,
+                "pending": 5
+            },
+            "average_amount": 25900.86,
+            "maximum_amount": 44050.64
+        },
+        {
+            "customer_id": "CUST-0049",
+            "city": "Casablanca",
+            "account_type": "savings",
+            "transaction_count": 8,
+            "total_amount": 262169.95,
+            "transaction_types": {
+                "transfer": 3,
+                "withdrawal": 1,
+                "payment": 3,
+                "deposit": 1
+            },
+            "statuses": {
+                "pending": 2,
+                "success": 2,
+                "failed": 4
+            },
+            "average_amount": 32771.24,
+            "maximum_amount": 49731.44
+        },
+        {
+            "customer_id": "CUST-0050",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 276674.43,
+            "transaction_types": {
+                "deposit": 8,
+                "withdrawal": 1,
+                "transfer": 3
+            },
+            "statuses": {
+                "pending": 6,
+                "success": 2,
+                "failed": 4
+            },
+            "average_amount": 23056.2,
+            "maximum_amount": 47473.86
+        },
+        {
+            "customer_id": "CUST-0051",
+            "city": "Casablanca",
+            "account_type": "checking",
+            "transaction_count": 8,
+            "total_amount": 235285.87,
+            "transaction_types": {
+                "deposit": 6,
+                "transfer": 1,
+                "payment": 1
+            },
+            "statuses": {
+                "pending": 4,
+                "success": 4
+            },
+            "average_amount": 29410.73,
+            "maximum_amount": 43527.52
+        },
+        {
+            "customer_id": "CUST-0052",
+            "city": "Casablanca",
+            "account_type": "checking",
+            "transaction_count": 6,
+            "total_amount": 190488.31,
+            "transaction_types": {
+                "transfer": 1,
+                "withdrawal": 2,
+                "deposit": 1,
+                "payment": 2
+            },
+            "statuses": {
+                "success": 1,
+                "failed": 3,
+                "pending": 2
+            },
+            "average_amount": 31748.05,
+            "maximum_amount": 48115.87
+        },
+        {
+            "customer_id": "CUST-0053",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 15,
+            "total_amount": 304656.54,
+            "transaction_types": {
+                "withdrawal": 6,
+                "payment": 3,
+                "deposit": 2,
+                "transfer": 4
+            },
+            "statuses": {
+                "pending": 7,
+                "success": 5,
+                "failed": 3
+            },
+            "average_amount": 20310.44,
+            "maximum_amount": 45282.35
+        },
+        {
+            "customer_id": "CUST-0054",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 11,
+            "total_amount": 335436.76,
+            "transaction_types": {
+                "payment": 4,
+                "deposit": 2,
+                "transfer": 3,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "failed": 3,
+                "success": 5,
+                "pending": 3
+            },
+            "average_amount": 30494.25,
+            "maximum_amount": 46028.17
+        },
+        {
+            "customer_id": "CUST-0055",
+            "city": "Fes",
+            "account_type": "checking",
+            "transaction_count": 6,
+            "total_amount": 92973.51,
+            "transaction_types": {
+                "withdrawal": 1,
+                "payment": 3,
+                "transfer": 2
+            },
+            "statuses": {
+                "success": 2,
+                "failed": 3,
+                "pending": 1
+            },
+            "average_amount": 15495.59,
+            "maximum_amount": 35093.51
+        },
+        {
+            "customer_id": "CUST-0056",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 10,
+            "total_amount": 301724.06,
+            "transaction_types": {
+                "transfer": 4,
+                "withdrawal": 3,
+                "deposit": 3
+            },
+            "statuses": {
+                "pending": 4,
+                "success": 6
+            },
+            "average_amount": 30172.41,
+            "maximum_amount": 48917.1
+        },
+        {
+            "customer_id": "CUST-0057",
+            "city": "Marrakech",
+            "account_type": "savings",
+            "transaction_count": 8,
+            "total_amount": 92382.49,
+            "transaction_types": {
+                "payment": 2,
+                "transfer": 3,
+                "deposit": 1,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "success": 2,
+                "pending": 3,
+                "failed": 3
+            },
+            "average_amount": 11547.81,
+            "maximum_amount": 30533.67
+        },
+        {
+            "customer_id": "CUST-0058",
+            "city": "Agadir",
+            "account_type": "checking",
+            "transaction_count": 14,
+            "total_amount": 386674.54,
+            "transaction_types": {
+                "payment": 4,
+                "deposit": 2,
+                "withdrawal": 6,
+                "transfer": 2
+            },
+            "statuses": {
+                "success": 5,
+                "pending": 3,
+                "failed": 6
+            },
+            "average_amount": 27619.61,
+            "maximum_amount": 45453.41
+        },
+        {
+            "customer_id": "CUST-0059",
+            "city": "Fes",
+            "account_type": "savings",
+            "transaction_count": 13,
+            "total_amount": 366126.6,
+            "transaction_types": {
+                "deposit": 5,
+                "transfer": 4,
+                "payment": 2,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "pending": 7,
+                "failed": 2,
+                "success": 4
+            },
+            "average_amount": 28163.58,
+            "maximum_amount": 46486.39
+        },
+        {
+            "customer_id": "CUST-0060",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 14,
+            "total_amount": 327439.14,
+            "transaction_types": {
+                "withdrawal": 5,
+                "payment": 2,
+                "transfer": 5,
+                "deposit": 2
+            },
+            "statuses": {
+                "pending": 7,
+                "failed": 2,
+                "success": 5
+            },
+            "average_amount": 23388.51,
+            "maximum_amount": 45977.89
+        },
+        {
+            "customer_id": "CUST-0061",
+            "city": "Rabat",
+            "account_type": "savings",
+            "transaction_count": 11,
+            "total_amount": 298357.88,
+            "transaction_types": {
+                "transfer": 5,
+                "deposit": 3,
+                "withdrawal": 3
+            },
+            "statuses": {
+                "failed": 5,
+                "success": 4,
+                "pending": 2
+            },
+            "average_amount": 27123.44,
+            "maximum_amount": 44472.41
+        },
+        {
+            "customer_id": "CUST-0062",
+            "city": "Fes",
+            "account_type": "checking",
+            "transaction_count": 7,
+            "total_amount": 141778.51,
+            "transaction_types": {
+                "transfer": 2,
+                "payment": 2,
+                "withdrawal": 2,
+                "deposit": 1
+            },
+            "statuses": {
+                "pending": 2,
+                "failed": 3,
+                "success": 2
+            },
+            "average_amount": 20254.07,
+            "maximum_amount": 46983.32
+        },
+        {
+            "customer_id": "CUST-0063",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 13,
+            "total_amount": 293716.47,
+            "transaction_types": {
+                "withdrawal": 2,
+                "payment": 7,
+                "deposit": 1,
+                "transfer": 3
+            },
+            "statuses": {
+                "failed": 4,
+                "success": 3,
+                "pending": 6
+            },
+            "average_amount": 22593.57,
+            "maximum_amount": 44744.93
+        },
+        {
+            "customer_id": "CUST-0064",
+            "city": "Casablanca",
+            "account_type": "checking",
+            "transaction_count": 15,
+            "total_amount": 376681.56,
+            "transaction_types": {
+                "withdrawal": 6,
+                "deposit": 4,
+                "payment": 5
+            },
+            "statuses": {
+                "success": 4,
+                "failed": 3,
+                "pending": 8
+            },
+            "average_amount": 25112.1,
+            "maximum_amount": 47651.28
+        },
+        {
+            "customer_id": "CUST-0065",
+            "city": "Fes",
+            "account_type": "savings",
+            "transaction_count": 6,
+            "total_amount": 107695.97,
+            "transaction_types": {
+                "payment": 2,
+                "transfer": 4
+            },
+            "statuses": {
+                "success": 2,
+                "pending": 3,
+                "failed": 1
+            },
+            "average_amount": 17949.33,
+            "maximum_amount": 44070.71
+        },
+        {
+            "customer_id": "CUST-0066",
+            "city": "Fes",
+            "account_type": "checking",
+            "transaction_count": 10,
+            "total_amount": 192955.52,
+            "transaction_types": {
+                "payment": 4,
+                "transfer": 3,
+                "deposit": 1,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "failed": 3,
+                "pending": 5,
+                "success": 2
+            },
+            "average_amount": 19295.55,
+            "maximum_amount": 44141.77
+        },
+        {
+            "customer_id": "CUST-0067",
+            "city": "Casablanca",
+            "account_type": "savings",
+            "transaction_count": 9,
+            "total_amount": 246044.78,
+            "transaction_types": {
+                "transfer": 3,
+                "withdrawal": 3,
+                "deposit": 3
+            },
+            "statuses": {
+                "success": 3,
+                "failed": 2,
+                "pending": 4
+            },
+            "average_amount": 27338.31,
+            "maximum_amount": 47912.33
+        },
+        {
+            "customer_id": "CUST-0068",
+            "city": "Marrakech",
+            "account_type": "savings",
+            "transaction_count": 13,
+            "total_amount": 339592.97,
+            "transaction_types": {
+                "withdrawal": 3,
+                "transfer": 3,
+                "deposit": 3,
+                "payment": 4
+            },
+            "statuses": {
+                "pending": 4,
+                "failed": 4,
+                "success": 5
+            },
+            "average_amount": 26122.54,
+            "maximum_amount": 49155.96
+        },
+        {
+            "customer_id": "CUST-0069",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 11,
+            "total_amount": 224714.73,
+            "transaction_types": {
+                "withdrawal": 4,
+                "transfer": 2,
+                "payment": 2,
+                "deposit": 3
+            },
+            "statuses": {
+                "failed": 5,
+                "success": 4,
+                "pending": 2
+            },
+            "average_amount": 20428.61,
+            "maximum_amount": 49921.69
+        },
+        {
+            "customer_id": "CUST-0070",
+            "city": "Casablanca",
+            "account_type": "checking",
+            "transaction_count": 9,
+            "total_amount": 217354.73,
+            "transaction_types": {
+                "transfer": 4,
+                "withdrawal": 3,
+                "payment": 2
+            },
+            "statuses": {
+                "pending": 5,
+                "success": 3,
+                "failed": 1
+            },
+            "average_amount": 24150.53,
+            "maximum_amount": 46743.53
+        },
+        {
+            "customer_id": "CUST-0071",
+            "city": "Casablanca",
+            "account_type": "savings",
+            "transaction_count": 15,
+            "total_amount": 343488.23,
+            "transaction_types": {
+                "withdrawal": 4,
+                "transfer": 5,
+                "deposit": 5,
+                "payment": 1
+            },
+            "statuses": {
+                "success": 3,
+                "failed": 7,
+                "pending": 5
+            },
+            "average_amount": 22899.22,
+            "maximum_amount": 49573.23
+        },
+        {
+            "customer_id": "CUST-0072",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 10,
+            "total_amount": 228130.24,
+            "transaction_types": {
+                "transfer": 4,
+                "payment": 3,
+                "withdrawal": 3
+            },
+            "statuses": {
+                "success": 2,
+                "failed": 4,
+                "pending": 4
+            },
+            "average_amount": 22813.02,
+            "maximum_amount": 48727.58
+        },
+        {
+            "customer_id": "CUST-0073",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 396120.17,
+            "transaction_types": {
+                "deposit": 2,
+                "transfer": 3,
+                "payment": 2,
+                "withdrawal": 5
+            },
+            "statuses": {
+                "failed": 5,
+                "pending": 3,
+                "success": 4
+            },
+            "average_amount": 33010.01,
+            "maximum_amount": 48866.69
+        },
+        {
+            "customer_id": "CUST-0074",
+            "city": "Agadir",
+            "account_type": "checking",
+            "transaction_count": 10,
+            "total_amount": 243999.98,
+            "transaction_types": {
+                "deposit": 6,
+                "payment": 2,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "failed": 4,
+                "pending": 3,
+                "success": 3
+            },
+            "average_amount": 24400.0,
+            "maximum_amount": 41082.75
+        },
+        {
+            "customer_id": "CUST-0075",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 6,
+            "total_amount": 99516.65,
+            "transaction_types": {
+                "deposit": 2,
+                "payment": 3,
+                "transfer": 1
+            },
+            "statuses": {
+                "failed": 2,
+                "success": 2,
+                "pending": 2
+            },
+            "average_amount": 16586.11,
+            "maximum_amount": 33183.97
+        },
+        {
+            "customer_id": "CUST-0076",
+            "city": "Casablanca",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 388849.78,
+            "transaction_types": {
+                "transfer": 2,
+                "payment": 3,
+                "deposit": 3,
+                "withdrawal": 4
+            },
+            "statuses": {
+                "failed": 4,
+                "success": 3,
+                "pending": 5
+            },
+            "average_amount": 32404.15,
+            "maximum_amount": 49863.27
+        },
+        {
+            "customer_id": "CUST-0077",
+            "city": "Tangier",
+            "account_type": "savings",
+            "transaction_count": 8,
+            "total_amount": 212626.49,
+            "transaction_types": {
+                "deposit": 3,
+                "payment": 2,
+                "transfer": 2,
+                "withdrawal": 1
+            },
+            "statuses": {
+                "failed": 6,
+                "pending": 2
+            },
+            "average_amount": 26578.31,
+            "maximum_amount": 49734.06
+        },
+        {
+            "customer_id": "CUST-0078",
+            "city": "Agadir",
+            "account_type": "savings",
+            "transaction_count": 5,
+            "total_amount": 94817.59,
+            "transaction_types": {
+                "deposit": 1,
+                "withdrawal": 3,
+                "transfer": 1
+            },
+            "statuses": {
+                "pending": 2,
+                "success": 1,
+                "failed": 2
+            },
+            "average_amount": 18963.52,
+            "maximum_amount": 46454.92
+        },
+        {
+            "customer_id": "CUST-0079",
+            "city": "Fes",
+            "account_type": "checking",
+            "transaction_count": 14,
+            "total_amount": 378989.6,
+            "transaction_types": {
+                "deposit": 5,
+                "withdrawal": 4,
+                "payment": 4,
+                "transfer": 1
+            },
+            "statuses": {
+                "success": 5,
+                "failed": 7,
+                "pending": 2
+            },
+            "average_amount": 27070.69,
+            "maximum_amount": 48005.84
+        },
+        {
+            "customer_id": "CUST-0080",
+            "city": "Marrakech",
+            "account_type": "checking",
+            "transaction_count": 3,
+            "total_amount": 71407.36,
+            "transaction_types": {
+                "withdrawal": 1,
+                "transfer": 1,
+                "payment": 1
+            },
+            "statuses": {
+                "failed": 1,
+                "pending": 2
+            },
+            "average_amount": 23802.45,
+            "maximum_amount": 32985.84
+        },
+        {
+            "customer_id": "CUST-0081",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 13,
+            "total_amount": 286450.43,
+            "transaction_types": {
+                "payment": 5,
+                "transfer": 2,
+                "withdrawal": 4,
+                "deposit": 2
+            },
+            "statuses": {
+                "failed": 5,
+                "success": 2,
+                "pending": 6
+            },
+            "average_amount": 22034.65,
+            "maximum_amount": 37448.09
+        },
+        {
+            "customer_id": "CUST-0082",
+            "city": "Rabat",
+            "account_type": "savings",
+            "transaction_count": 10,
+            "total_amount": 310149.15,
+            "transaction_types": {
+                "transfer": 2,
+                "withdrawal": 2,
+                "payment": 5,
+                "deposit": 1
+            },
+            "statuses": {
+                "failed": 8,
+                "success": 1,
+                "pending": 1
+            },
+            "average_amount": 31014.91,
+            "maximum_amount": 47015.19
+        },
+        {
+            "customer_id": "CUST-0083",
+            "city": "Casablanca",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 320271.89,
+            "transaction_types": {
+                "deposit": 3,
+                "withdrawal": 6,
+                "payment": 2,
+                "transfer": 1
+            },
+            "statuses": {
+                "failed": 5,
+                "success": 5,
+                "pending": 2
+            },
+            "average_amount": 26689.32,
+            "maximum_amount": 49647.08
+        },
+        {
+            "customer_id": "CUST-0084",
+            "city": "Rabat",
+            "account_type": "savings",
+            "transaction_count": 5,
+            "total_amount": 65321.64,
+            "transaction_types": {
+                "deposit": 1,
+                "transfer": 1,
+                "payment": 1,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "success": 3,
+                "pending": 1,
+                "failed": 1
+            },
+            "average_amount": 13064.33,
+            "maximum_amount": 33577.0
+        },
+        {
+            "customer_id": "CUST-0085",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 16,
+            "total_amount": 274302.94,
+            "transaction_types": {
+                "transfer": 4,
+                "payment": 7,
+                "deposit": 3,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "pending": 8,
+                "failed": 3,
+                "success": 5
+            },
+            "average_amount": 17143.93,
+            "maximum_amount": 42402.28
+        },
+        {
+            "customer_id": "CUST-0086",
+            "city": "Agadir",
+            "account_type": "checking",
+            "transaction_count": 7,
+            "total_amount": 165830.47,
+            "transaction_types": {
+                "payment": 2,
+                "transfer": 2,
+                "deposit": 1,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "success": 3,
+                "failed": 3,
+                "pending": 1
+            },
+            "average_amount": 23690.07,
+            "maximum_amount": 43658.45
+        },
+        {
+            "customer_id": "CUST-0087",
+            "city": "Casablanca",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 338384.55,
+            "transaction_types": {
+                "payment": 5,
+                "transfer": 4,
+                "deposit": 2,
+                "withdrawal": 1
+            },
+            "statuses": {
+                "pending": 7,
+                "failed": 3,
+                "success": 2
+            },
+            "average_amount": 28198.71,
+            "maximum_amount": 49057.67
+        },
+        {
+            "customer_id": "CUST-0088",
+            "city": "Marrakech",
+            "account_type": "savings",
+            "transaction_count": 12,
+            "total_amount": 369584.63,
+            "transaction_types": {
+                "deposit": 6,
+                "payment": 2,
+                "withdrawal": 2,
+                "transfer": 2
+            },
+            "statuses": {
+                "failed": 2,
+                "pending": 6,
+                "success": 4
+            },
+            "average_amount": 30798.72,
+            "maximum_amount": 48207.58
+        },
+        {
+            "customer_id": "CUST-0089",
+            "city": "Agadir",
+            "account_type": "savings",
+            "transaction_count": 12,
+            "total_amount": 391775.88,
+            "transaction_types": {
+                "payment": 4,
+                "withdrawal": 5,
+                "transfer": 3
+            },
+            "statuses": {
+                "failed": 6,
+                "success": 3,
+                "pending": 3
+            },
+            "average_amount": 32647.99,
+            "maximum_amount": 45989.29
+        },
+        {
+            "customer_id": "CUST-0090",
+            "city": "Tangier",
+            "account_type": "savings",
+            "transaction_count": 13,
+            "total_amount": 309999.22,
+            "transaction_types": {
+                "withdrawal": 5,
+                "deposit": 3,
+                "transfer": 4,
+                "payment": 1
+            },
+            "statuses": {
+                "success": 5,
+                "pending": 3,
+                "failed": 5
+            },
+            "average_amount": 23846.09,
+            "maximum_amount": 47435.42
+        },
+        {
+            "customer_id": "CUST-0091",
+            "city": "Casablanca",
+            "account_type": "savings",
+            "transaction_count": 9,
+            "total_amount": 179453.28,
+            "transaction_types": {
+                "withdrawal": 1,
+                "transfer": 5,
+                "deposit": 3
+            },
+            "statuses": {
+                "pending": 3,
+                "failed": 3,
+                "success": 3
+            },
+            "average_amount": 19939.25,
+            "maximum_amount": 37184.85
+        },
+        {
+            "customer_id": "CUST-0092",
+            "city": "Casablanca",
+            "account_type": "savings",
+            "transaction_count": 6,
+            "total_amount": 168266.11,
+            "transaction_types": {
+                "withdrawal": 3,
+                "transfer": 2,
+                "payment": 1
+            },
+            "statuses": {
+                "failed": 2,
+                "pending": 2,
+                "success": 2
+            },
+            "average_amount": 28044.35,
+            "maximum_amount": 48176.86
+        },
+        {
+            "customer_id": "CUST-0093",
+            "city": "Rabat",
+            "account_type": "savings",
+            "transaction_count": 6,
+            "total_amount": 129415.49,
+            "transaction_types": {
+                "transfer": 2,
+                "withdrawal": 2,
+                "deposit": 2
+            },
+            "statuses": {
+                "pending": 1,
+                "failed": 4,
+                "success": 1
+            },
+            "average_amount": 21569.25,
+            "maximum_amount": 42579.8
+        },
+        {
+            "customer_id": "CUST-0094",
+            "city": "Tangier",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 387459.94,
+            "transaction_types": {
+                "withdrawal": 6,
+                "deposit": 2,
+                "transfer": 3,
+                "payment": 1
+            },
+            "statuses": {
+                "pending": 4,
+                "success": 6,
+                "failed": 2
+            },
+            "average_amount": 32288.33,
+            "maximum_amount": 49244.13
+        },
+        {
+            "customer_id": "CUST-0095",
+            "city": "Agadir",
+            "account_type": "checking",
+            "transaction_count": 6,
+            "total_amount": 114575.35,
+            "transaction_types": {
+                "payment": 3,
+                "transfer": 1,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "success": 2,
+                "pending": 2,
+                "failed": 2
+            },
+            "average_amount": 19095.89,
+            "maximum_amount": 36372.83
+        },
+        {
+            "customer_id": "CUST-0096",
+            "city": "Marrakech",
+            "account_type": "checking",
+            "transaction_count": 7,
+            "total_amount": 191280.1,
+            "transaction_types": {
+                "deposit": 3,
+                "payment": 2,
+                "withdrawal": 2
+            },
+            "statuses": {
+                "failed": 4,
+                "pending": 2,
+                "success": 1
+            },
+            "average_amount": 27325.73,
+            "maximum_amount": 49442.01
+        },
+        {
+            "customer_id": "CUST-0097",
+            "city": "Casablanca",
+            "account_type": "savings",
+            "transaction_count": 13,
+            "total_amount": 353506.53,
+            "transaction_types": {
+                "transfer": 3,
+                "withdrawal": 6,
+                "deposit": 3,
+                "payment": 1
+            },
+            "statuses": {
+                "pending": 5,
+                "failed": 5,
+                "success": 3
+            },
+            "average_amount": 27192.81,
+            "maximum_amount": 48196.06
+        },
+        {
+            "customer_id": "CUST-0098",
+            "city": "Marrakech",
+            "account_type": "checking",
+            "transaction_count": 12,
+            "total_amount": 447816.22,
+            "transaction_types": {
+                "deposit": 6,
+                "withdrawal": 3,
+                "payment": 1,
+                "transfer": 2
+            },
+            "statuses": {
+                "failed": 5,
+                "success": 5,
+                "pending": 2
+            },
+            "average_amount": 37318.02,
+            "maximum_amount": 49819.64
+        },
+        {
+            "customer_id": "CUST-0099",
+            "city": "Marrakech",
+            "account_type": "savings",
+            "transaction_count": 10,
+            "total_amount": 315582.4,
+            "transaction_types": {
+                "deposit": 5,
+                "withdrawal": 1,
+                "payment": 3,
+                "transfer": 1
+            },
+            "statuses": {
+                "pending": 3,
+                "failed": 4,
+                "success": 3
+            },
+            "average_amount": 31558.24,
+            "maximum_amount": 48748.86
+        },
+        {
+            "customer_id": "CUST-0100",
+            "city": "Rabat",
+            "account_type": "checking",
+            "transaction_count": 16,
+            "total_amount": 469567.38,
+            "transaction_types": {
+                "deposit": 3,
+                "withdrawal": 6,
+                "payment": 4,
+                "transfer": 3
+            },
+            "statuses": {
+                "failed": 5,
+                "pending": 5,
+                "success": 6
+            },
+            "average_amount": 29347.96,
+            "maximum_amount": 47064.55
+        }
+    ]
+}
