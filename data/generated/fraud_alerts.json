@@ -1,0 +1,2703 @@
+{
+    "total_transactions_analyzed": 1011,
+    "total_alerts": 224,
+    "alerts": [
+        {
+            "alert_id": "ALERT-0001",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0086",
+            "description": "Transaction amount 43204.56 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0002"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0002",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0026",
+            "description": "Transaction amount 40831.16 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0004"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0003",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0036",
+            "description": "Transaction amount 43219.0 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0006"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0004",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0087",
+            "description": "Transaction amount 49057.67 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0007"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0005",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0015",
+            "description": "Transaction amount 43853.15 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0008"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0006",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0085",
+            "description": "Transaction amount 42402.28 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0013"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0007",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0012",
+            "description": "Transaction amount 40922.99 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0020"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0008",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0097",
+            "description": "Transaction amount 44572.38 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0028"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0009",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0060",
+            "description": "Transaction amount 45977.89 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0040"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0010",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0033",
+            "description": "Transaction amount 41747.2 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0045"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0011",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0100",
+            "description": "Transaction amount 40966.87 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0050"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0012",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0054",
+            "description": "Transaction amount 41118.32 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0056"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0013",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0082",
+            "description": "Transaction amount 44579.83 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0057"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0014",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0042",
+            "description": "Transaction amount 42587.14 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0060"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0015",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0013",
+            "description": "Transaction amount 41633.09 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0072"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0016",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0006",
+            "description": "Transaction amount 48715.0 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0074"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0017",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0082",
+            "description": "Transaction amount 43424.38 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0075"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0018",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0024",
+            "description": "Transaction amount 48275.23 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0077"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0019",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0020",
+            "description": "Transaction amount 40558.99 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0079"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0020",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0076",
+            "description": "Transaction amount 49501.66 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0082"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0021",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0079",
+            "description": "Transaction amount 48005.84 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0083"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0022",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0083",
+            "description": "Transaction amount 41608.84 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0109"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0023",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0054",
+            "description": "Transaction amount 41737.85 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0110"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0024",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0053",
+            "description": "Transaction amount 43547.94 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0121"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0025",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0043",
+            "description": "Transaction amount 42618.54 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0123"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0026",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0056",
+            "description": "Transaction amount 48917.1 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0126"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0027",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0064",
+            "description": "Transaction amount 45642.32 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0131"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0028",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0045",
+            "description": "Transaction amount 49382.71 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0134"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0029",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0059",
+            "description": "Transaction amount 42266.74 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0135"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0030",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0073",
+            "description": "Transaction amount 43254.72 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0138"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0031",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0082",
+            "description": "Transaction amount 47015.19 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0149"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0032",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0070",
+            "description": "Transaction amount 45085.79 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0158"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0033",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0009",
+            "description": "Transaction amount 41492.59 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0162"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0034",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0036",
+            "description": "Transaction amount 42921.72 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0164"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0035",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0049",
+            "description": "Transaction amount 49731.44 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0174"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0036",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0076",
+            "description": "Transaction amount 47831.66 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0181"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0037",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0072",
+            "description": "Transaction amount 48727.58 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0186"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0038",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0078",
+            "description": "Transaction amount 46454.92 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0187"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0039",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0039",
+            "description": "Transaction amount 47266.75 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0198"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0040",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0059",
+            "description": "Transaction amount 46058.91 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0202"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0041",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0089",
+            "description": "Transaction amount 45989.29 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0205"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0042",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0051",
+            "description": "Transaction amount 43527.52 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0207"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0043",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0088",
+            "description": "Transaction amount 46208.47 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0213"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0044",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0058",
+            "description": "Transaction amount 45453.41 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0219"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0045",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0044",
+            "description": "Transaction amount 49119.46 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0221"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0046",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0093",
+            "description": "Transaction amount 42579.8 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0226"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0047",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0038",
+            "description": "Transaction amount 42222.98 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0233"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0048",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0087",
+            "description": "Transaction amount 47357.04 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0239"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0049",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0058",
+            "description": "Transaction amount 44232.64 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0245"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0050",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0009",
+            "description": "Transaction amount 47670.65 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0257"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0051",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0050",
+            "description": "Transaction amount 43667.84 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0258"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0052",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0094",
+            "description": "Transaction amount 43503.16 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0274"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0053",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0019",
+            "description": "Transaction amount 42434.98 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0277"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0054",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0050",
+            "description": "Transaction amount 47473.86 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0279"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0055",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0018",
+            "description": "Transaction amount 42642.79 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0285"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0056",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0012",
+            "description": "Transaction amount 40527.56 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0286"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0057",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0060",
+            "description": "Transaction amount 40185.05 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0290"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0058",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0017",
+            "description": "Transaction amount 43899.23 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0294"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0059",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0067",
+            "description": "Transaction amount 44747.35 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0297"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0060",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0076",
+            "description": "Transaction amount 47080.93 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0299"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0061",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0064",
+            "description": "Transaction amount 44450.95 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0302"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0062",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0041",
+            "description": "Transaction amount 43075.64 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0306"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0063",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0017",
+            "description": "Transaction amount 48754.39 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0319"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0064",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0072",
+            "description": "Transaction amount 46948.04 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0320"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0065",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0042",
+            "description": "Transaction amount 46569.12 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0323"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0066",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0065",
+            "description": "Transaction amount 41416.19 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0325"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0067",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0061",
+            "description": "Transaction amount 40789.28 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0326"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0068",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0034",
+            "description": "Transaction amount 48353.86 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0328"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0069",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0019",
+            "description": "Transaction amount 41084.85 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0330"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0070",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0041",
+            "description": "Transaction amount 47834.71 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0335"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0071",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0025",
+            "description": "Transaction amount 47867.3 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0337"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0072",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0029",
+            "description": "Transaction amount 47074.86 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0338"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0073",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0072",
+            "description": "Transaction amount 46685.68 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0340"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0074",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0099",
+            "description": "Transaction amount 40232.75 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0342"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0075",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0045",
+            "description": "Transaction amount 46201.24 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0343"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0076",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0097",
+            "description": "Transaction amount 48196.06 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0350"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0077",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0018",
+            "description": "Transaction amount 42554.48 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0356"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0078",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0082",
+            "description": "Transaction amount 45807.36 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0366"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0079",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0029",
+            "description": "Transaction amount 47868.45 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0367"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0080",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0096",
+            "description": "Transaction amount 49442.01 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0368"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0081",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0008",
+            "description": "Transaction amount 41440.41 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0372"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0082",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0087",
+            "description": "Transaction amount 40347.7 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0377"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0083",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0033",
+            "description": "Transaction amount 40824.5 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0378"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0084",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0009",
+            "description": "Transaction amount 49307.0 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0380"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0085",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0058",
+            "description": "Transaction amount 43482.32 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0382"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0086",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0088",
+            "description": "Transaction amount 48207.58 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0383"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0087",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0094",
+            "description": "Transaction amount 48936.43 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0385"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0088",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0025",
+            "description": "Transaction amount 46871.14 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0388"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0089",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0030",
+            "description": "Transaction amount 40791.15 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0393"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0090",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0045",
+            "description": "Transaction amount 47079.9 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0397"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0091",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0028",
+            "description": "Transaction amount 46858.62 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0407"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0092",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0066",
+            "description": "Transaction amount 44141.77 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0411"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0093",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0098",
+            "description": "Transaction amount 41988.16 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0412"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0094",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0071",
+            "description": "Transaction amount 46738.56 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0414"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0095",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0098",
+            "description": "Transaction amount 41081.38 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0417"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0096",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0024",
+            "description": "Transaction amount 45845.8 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0419"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0097",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0010",
+            "description": "Transaction amount 47259.95 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0420"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0098",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0088",
+            "description": "Transaction amount 41404.82 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0430"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0099",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0073",
+            "description": "Transaction amount 48866.69 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0433"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0100",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0028",
+            "description": "Transaction amount 45064.64 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0434"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0101",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0023",
+            "description": "Transaction amount 46439.03 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0436"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0102",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0087",
+            "description": "Transaction amount 44827.32 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0439"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0103",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0076",
+            "description": "Transaction amount 49863.27 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0464"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0104",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0038",
+            "description": "Transaction amount 41565.78 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0466"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0105",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0045",
+            "description": "Transaction amount 49885.16 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0475"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0106",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0054",
+            "description": "Transaction amount 46028.17 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0476"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0107",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0046",
+            "description": "Transaction amount 42277.43 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0489"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0108",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0041",
+            "description": "Transaction amount 42100.84 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0495"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0109",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0100",
+            "description": "Transaction amount 40596.33 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0505"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0110",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0027",
+            "description": "Transaction amount 40678.36 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0507"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0111",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0008",
+            "description": "Transaction amount 49624.39 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0510"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0112",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0028",
+            "description": "Transaction amount 48406.75 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0517"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0113",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0042",
+            "description": "Transaction amount 41418.9 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0518"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0114",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0073",
+            "description": "Transaction amount 42622.6 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0519"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0115",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0089",
+            "description": "Transaction amount 45471.27 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0522"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0116",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0048",
+            "description": "Transaction amount 44050.64 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0531"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0117",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0083",
+            "description": "Transaction amount 49647.08 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0532"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0118",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0100",
+            "description": "Transaction amount 47064.55 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0538"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0119",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0068",
+            "description": "Transaction amount 44437.34 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0541"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0120",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0064",
+            "description": "Transaction amount 47651.28 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0553"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0121",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0099",
+            "description": "Transaction amount 44995.87 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0555"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0122",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0006",
+            "description": "Transaction amount 42935.86 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0560"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0123",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0071",
+            "description": "Transaction amount 40157.74 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0562"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0124",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0009",
+            "description": "Transaction amount 43850.79 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0566"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0125",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0068",
+            "description": "Transaction amount 49155.96 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0573"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0126",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0008",
+            "description": "Transaction amount 41520.31 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0589"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0127",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0058",
+            "description": "Transaction amount 44172.36 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0596"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0128",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0045",
+            "description": "Transaction amount 45634.72 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0601"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0129",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0004",
+            "description": "Transaction amount 44789.28 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0603"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0130",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0098",
+            "description": "Transaction amount 49819.64 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0606"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0131",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0046",
+            "description": "Transaction amount 46760.95 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0607"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0132",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0073",
+            "description": "Transaction amount 47418.94 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0610"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0133",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0068",
+            "description": "Transaction amount 43034.87 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0615"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0134",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0090",
+            "description": "Transaction amount 47435.42 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0621"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0135",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0045",
+            "description": "Transaction amount 49119.16 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0624"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0136",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0064",
+            "description": "Transaction amount 44089.72 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0628"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0137",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0013",
+            "description": "Transaction amount 41442.06 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0629"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0138",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0022",
+            "description": "Transaction amount 44397.68 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0632"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0139",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0056",
+            "description": "Transaction amount 47122.69 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0634"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0140",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0063",
+            "description": "Transaction amount 44744.93 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0642"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0141",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0029",
+            "description": "Transaction amount 41855.57 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0645"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0142",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0016",
+            "description": "Transaction amount 47463.25 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0650"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0143",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0028",
+            "description": "Transaction amount 40424.95 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0651"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0144",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0011",
+            "description": "Transaction amount 49414.11 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0652"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0145",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0044",
+            "description": "Transaction amount 40871.12 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0662"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0146",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0063",
+            "description": "Transaction amount 42913.16 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0663"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0147",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0039",
+            "description": "Transaction amount 48711.23 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0664"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0148",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0028",
+            "description": "Transaction amount 45672.51 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0666"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0149",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0048",
+            "description": "Transaction amount 41177.08 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0671"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0150",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0023",
+            "description": "Transaction amount 48026.41 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0673"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0151",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0049",
+            "description": "Transaction amount 42580.79 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0680"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0152",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0088",
+            "description": "Transaction amount 44980.56 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0692"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0153",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0007",
+            "description": "Transaction amount 43321.0 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0695"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0154",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0061",
+            "description": "Transaction amount 44472.41 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0696"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0155",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0041",
+            "description": "Transaction amount 43121.07 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0699"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0156",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0089",
+            "description": "Transaction amount 43850.49 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0707"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0157",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0056",
+            "description": "Transaction amount 44399.82 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0710"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0158",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0094",
+            "description": "Transaction amount 49244.13 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0712"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0159",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0077",
+            "description": "Transaction amount 49734.06 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0715"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0160",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0054",
+            "description": "Transaction amount 41534.33 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0720"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0161",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0020",
+            "description": "Transaction amount 47472.81 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0726"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0162",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0002",
+            "description": "Transaction amount 42601.42 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0730"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0163",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0046",
+            "description": "Transaction amount 44727.44 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0731"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0164",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0048",
+            "description": "Transaction amount 40750.06 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0732"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0165",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0052",
+            "description": "Transaction amount 48115.87 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0733"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0166",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0088",
+            "description": "Transaction amount 43998.71 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0738"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0167",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0086",
+            "description": "Transaction amount 43658.45 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0741"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0168",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0064",
+            "description": "Transaction amount 43472.09 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0745"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0169",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0029",
+            "description": "Transaction amount 42217.43 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0753"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0170",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0046",
+            "description": "Transaction amount 41495.9 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0756"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0171",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0099",
+            "description": "Transaction amount 44588.8 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0761"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0172",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0094",
+            "description": "Transaction amount 40764.06 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0764"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0173",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0065",
+            "description": "Transaction amount 44070.71 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0765"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0174",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0079",
+            "description": "Transaction amount 43403.09 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0777"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0175",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0029",
+            "description": "Transaction amount 45575.2 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0781"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0176",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0023",
+            "description": "Transaction amount 49172.83 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0783"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0177",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0029",
+            "description": "Transaction amount 44171.0 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0791"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0178",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0067",
+            "description": "Transaction amount 41107.23 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0796"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0179",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0074",
+            "description": "Transaction amount 41082.75 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0803"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0180",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0071",
+            "description": "Transaction amount 43739.6 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0812"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0181",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0053",
+            "description": "Transaction amount 45282.35 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0815"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0182",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0036",
+            "description": "Transaction amount 42007.1 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0824"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0183",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0003",
+            "description": "Transaction amount 42480.87 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0828"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0184",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0070",
+            "description": "Transaction amount 44700.36 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0830"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0185",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0073",
+            "description": "Transaction amount 47436.1 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0835"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0186",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0049",
+            "description": "Transaction amount 48633.98 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0842"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0187",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0083",
+            "description": "Transaction amount 41669.92 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0848"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0188",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0067",
+            "description": "Transaction amount 47912.33 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0851"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0189",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0029",
+            "description": "Transaction amount 41519.88 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0854"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0190",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0048",
+            "description": "Transaction amount 43742.47 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0862"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0191",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0030",
+            "description": "Transaction amount 46921.7 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0863"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0192",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0076",
+            "description": "Transaction amount 40233.01 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0864"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0193",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0077",
+            "description": "Transaction amount 43839.55 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0866"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0194",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0034",
+            "description": "Transaction amount 42750.3 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0870"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0195",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0092",
+            "description": "Transaction amount 48176.86 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0880"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0196",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0045",
+            "description": "Transaction amount 48164.75 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0888"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0197",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0059",
+            "description": "Transaction amount 46486.39 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0889"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0198",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0044",
+            "description": "Transaction amount 47351.3 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0891"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0199",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0024",
+            "description": "Transaction amount 47356.43 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0899"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0200",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0026",
+            "description": "Transaction amount 41748.67 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0901"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0201",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0098",
+            "description": "Transaction amount 42855.9 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0903"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0202",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0098",
+            "description": "Transaction amount 45801.18 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0905"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0203",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0062",
+            "description": "Transaction amount 46983.32 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0907"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0204",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0051",
+            "description": "Transaction amount 43021.4 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0908"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0205",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0047",
+            "description": "Transaction amount 42717.76 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0913"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0206",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0061",
+            "description": "Transaction amount 41950.2 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0920"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0207",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0100",
+            "description": "Transaction amount 43141.7 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0929"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0208",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0070",
+            "description": "Transaction amount 46743.53 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0938"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0209",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0067",
+            "description": "Transaction amount 40770.84 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0943"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0210",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0024",
+            "description": "Transaction amount 48616.91 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0953"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0211",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0016",
+            "description": "Transaction amount 48730.18 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0960"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0212",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0099",
+            "description": "Transaction amount 48748.86 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0961"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0213",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0007",
+            "description": "Transaction amount 43184.25 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0966"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0214",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0036",
+            "description": "Transaction amount 43384.42 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0978"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0215",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0023",
+            "description": "Transaction amount 43675.9 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0986"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0216",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0010",
+            "description": "Transaction amount 47230.73 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0993"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0217",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0069",
+            "description": "Transaction amount 49921.69 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-0999"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0218",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0071",
+            "description": "Transaction amount 49573.23 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-TXN-1000"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0219",
+            "rule_id": "DET-001",
+            "alert_type": "high_value_transaction",
+            "severity": "high",
+            "customer_id": "CUST-0001",
+            "description": "Transaction amount 49999.0 MAD reached the high-value threshold.",
+            "related_event_ids": [
+                "EVT-FRAUD-0001"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0220",
+            "rule_id": "DET-004",
+            "alert_type": "unusual_ip_address",
+            "severity": "medium",
+            "customer_id": "CUST-0001",
+            "description": "Transaction received from unfamiliar IP address: 192.0.2.10",
+            "related_event_ids": [
+                "EVT-FRAUD-0001"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0221",
+            "rule_id": "DET-004",
+            "alert_type": "unusual_ip_address",
+            "severity": "medium",
+            "customer_id": "CUST-0004",
+            "description": "Transaction received from unfamiliar IP address: 203.0.113.250",
+            "related_event_ids": [
+                "EVT-FRAUD-0011"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0222",
+            "rule_id": "DET-002",
+            "alert_type": "rapid_transactions",
+            "severity": "high",
+            "customer_id": "CUST-0002",
+            "description": "5 transactions occurred within 10 minutes.",
+            "related_event_ids": [
+                "EVT-FRAUD-0002",
+                "EVT-FRAUD-0003",
+                "EVT-FRAUD-0004",
+                "EVT-FRAUD-0005",
+                "EVT-FRAUD-0006"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0223",
+            "rule_id": "DET-003",
+            "alert_type": "repeated_failed_transactions",
+            "severity": "medium",
+            "customer_id": "CUST-0045",
+            "description": "3 failed transactions occurred within 10 minutes.",
+            "related_event_ids": [
+                "EVT-TXN-0475",
+                "EVT-TXN-0477",
+                "EVT-TXN-0478"
+            ],
+            "status": "open"
+        },
+        {
+            "alert_id": "ALERT-0224",
+            "rule_id": "DET-003",
+            "alert_type": "repeated_failed_transactions",
+            "severity": "medium",
+            "customer_id": "CUST-0003",
+            "description": "4 failed transactions occurred within 10 minutes.",
+            "related_event_ids": [
+                "EVT-FRAUD-0007",
+                "EVT-FRAUD-0008",
+                "EVT-FRAUD-0009",
+                "EVT-FRAUD-0010"
+            ],
+            "status": "open"
+        }
+    ]
+}
